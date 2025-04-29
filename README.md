@@ -1,8 +1,8 @@
 # Hi, I'm Ruam Marcos 😸
 
-🧠 Computer cience student at UFT - Palmas | Brazil <br/>
-⚙ Computer Technician from IFTO <br/>
-📝 Currently working on Do-it app <br/>
+🧠 Computer science student at UFT - Palmas | Brazil <br/>
+⚙ Computer technician from IFTO <br/>
+📝 Currently working on Do-it App <br/>
 📊 Enthusiastic about statistics and data science <br/>
 ♟ Amateur chess player <br/>
 
