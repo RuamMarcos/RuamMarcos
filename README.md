@@ -1,6 +1,6 @@
 # Hi, I'm Ruam Marcos 😸
 
-Hi! I’m a Computer Science student with strong skills in Python problem-solving and creating high-quality databases. I am currently working on the "Do-it" project, where I’m gaining hands-on experience and expanding my expertise. I’m passionate about data and interested in pursuing opportunities in this field. Outside of tech, I enjoy playing chess, which helps sharpen my analytical thinking.
+Hi! I’m a Computer Science student with strong skills in Python problem-solving and creating high-quality databases. I am currently working on personal projects and stuffs, where I’m gaining hands-on experience and expanding my expertise. I’m passionate about data and interested in pursuing opportunities in this field. Outside of tech, I enjoy playing chess and learn new things.
 
 Connect with me on LinkedIn!
 
@@ -17,3 +17,4 @@ Connect with me on LinkedIn!
 [![](https://visitcount.itsvg.in/api?id=RuamMarcos&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Love is the answer!! Peace ✌️ -->
